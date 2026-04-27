@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-blyoqd.spremail.com/sitemap.xml
